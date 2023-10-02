@@ -1,1 +1,1 @@
-This is all about Simpl shell project
+This is all about Simple shell project
